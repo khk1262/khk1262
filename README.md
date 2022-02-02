@@ -8,6 +8,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khk1262)](https://solved.ac/khk1262)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khk1262&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">🛠 Tech Stack 🛠</h3>
 
