@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=khk1262&fontSize=70&animation=twinkling)
 
 <p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhk1262&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhk1262&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 ![khk1262's github stats](https://github-readme-stats.vercel.app/api?username=khk1262&show_icons=true)[![khk1262's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khk1262&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/khk1262)
