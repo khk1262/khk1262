@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
 <p align="center"> Tools </p>
 
@@ -35,7 +34,6 @@
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/></a>&nbsp 
   <br>
  </p>
-<br>
 
 <h1 align="center">:mailbox_with_mail: Contacts</h3>
 <p align="center">
