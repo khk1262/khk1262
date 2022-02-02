@@ -1,17 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=khk1262&fontSize=70&animation=twinkling)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khk1262&show_icons=true&theme=radical)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khk1262)](https://solved.ac/khk1262)
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Platforms & Languages </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ROS-1572B6?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Arduino-0097D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+
 
 </p>
 
